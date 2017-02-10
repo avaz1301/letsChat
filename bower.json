@@ -1,0 +1,21 @@
+{
+  "name": "letschat",
+  "description": "Chat application using Socket.io",
+  "main": "index.js",
+  "authors": [
+    "Angelo Zamudio"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
